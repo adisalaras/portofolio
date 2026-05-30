@@ -220,7 +220,7 @@ export default function Hero() {
           }} />
 
           <img
-            src="/dist/assets/profile.png"
+            src="/public/profile.png"
             alt="Adisa Laras Pertiwi"
             onError={e => {
               // fallback: show initials avatar if no photo
